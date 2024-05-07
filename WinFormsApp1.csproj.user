@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CreatePost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomepageScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Posts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterationScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchResults2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrendingOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrendingResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
